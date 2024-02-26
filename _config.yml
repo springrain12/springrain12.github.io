@@ -7,6 +7,11 @@ paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
 
+# method to change cover image background color
+#cover_bg_coloro: rgb(40, 73, 77)
+#cover_color: rgb(255, 255, 255)
+
+
 # Gems
 plugins:
   - jekyll-gist
