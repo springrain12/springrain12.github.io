@@ -1,17 +1,13 @@
 # social link
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: mailto://hyeonjin_kim@yonsei.ac.kr
   icon: fas fa-envelope
 
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
-
 - title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
+  url: https://github.com/springrain12
   icon: fab fa-github
 
 - title: Linkedin
   url: https://www.linkedin.com/in/hyeonjin-kim4420
-  icon: fa-brands fa-linkedin
+  icon: fab fa-linkedin
 
