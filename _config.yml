@@ -3,10 +3,13 @@ title: Hyeonjin Kim
 description: Ph.D. candidate in Computer Architecture
 url: https://springrain12.github.io/
 #url: /about/
-avatar: /avatar.jpeg
+#avatar: /avatar.jpeg
+avatar: /hyeonjin.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /DSC00559.jpg
+  # cover_image: /bg.jpeg
+
 
 # method to change cover image background color
 #cover_bg_coloro: rgb(40, 73, 77)
