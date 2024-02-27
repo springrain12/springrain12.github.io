@@ -3,6 +3,9 @@
   url: mailto:hyeonjin_kim@yonsei.ac.kr
   icon: fas fa-envelope
 
+- title: Google Scholar
+  url: https://scholar.google.co.kr/citations?user=xkShr1AAAAAJ&hl=en
+  icon: fab fa-googlescholar 
 - title: GitHub
   url: https://github.com/springrain12
   icon: fab fa-github
@@ -11,3 +14,6 @@
   url: https://www.linkedin.com/in/hyeonjin-kim4420
   icon: fab fa-linkedin
 
+- title: Instagram
+  url: https://www.instagram.com/hjkim.photography
+  icon: fab fa-instagram

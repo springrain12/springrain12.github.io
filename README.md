@@ -144,6 +144,9 @@ You can set your social links in `_data/social.yml`. You can custom titles, URLs
 - title: GitHub
   url: https://github.com/vszhub/not-pure-poole
   icon: fab fa-github
+- title: Instagram
+  url: https://www.instagram.com/hjkim.photography
+  icon: fab fa-instagram
 ```
 
 ### Enabling Posts Archive
