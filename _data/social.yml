@@ -5,7 +5,8 @@
 
 - title: Google Scholar
   url: https://scholar.google.co.kr/citations?user=xkShr1AAAAAJ&hl=en
-  icon: fab fa-googlescholar 
+  icon: ai ai-google-scholar-square
+
 - title: GitHub
   url: https://github.com/springrain12
   icon: fab fa-github
